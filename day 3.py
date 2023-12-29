@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+#
 price=float(input("Enter Price"))
 if(price>100000):
     print(" tax is 15% ")
