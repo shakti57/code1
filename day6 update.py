@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+#
 
 def digit_names(number):
     # Define a mapping between digits and their names
