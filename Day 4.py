@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+#day4
 
 num=1
 print("numbers  squares")
