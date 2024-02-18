@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-#12
+# day 12
 
 #import keyword
 import keyword
