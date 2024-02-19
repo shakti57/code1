@@ -2,7 +2,7 @@
 # coding: utf-8
 
 # In[1]:
-
+#day 02
 
 # conditional statement pgm
 # if
