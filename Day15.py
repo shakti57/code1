@@ -3,7 +3,7 @@
 
 # In[1]:
 
-#Day15
+# Day 15
 import pandas as pd
 
 # Creating a DataFrame from a dictionary
