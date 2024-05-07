@@ -3,7 +3,7 @@
 
 # In[1]:
 
-#14day
+#14 day
 import numpy as np
 
 # Create a 1D array
